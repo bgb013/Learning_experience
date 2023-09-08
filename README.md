@@ -1,1 +1,1 @@
-This projecs it to learn how to work with Git within my Bootcamp experience. Also about writting some queries on windows functions
+This project it to showcase some of the work done on my Marketing Analytics Bootcamp.
