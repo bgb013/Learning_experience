@@ -4,4 +4,4 @@ The first project we work on takes us into a hypothetical scenario in which we h
 
 The purpose of this is to improve their online strategy as well as to recommend the different tools and actions that would be necessary for their online success.
 
-[Click here](https://docs.google.com/presentation/d/1Lry5lLoy54RNFWqMXqoKjW0lILU6LG1Hv0TCbVGpTvA/edit?usp=drive_link) to view the presentation
+[Click here](https://docs.google.com/presentation/d/1Lry5lLoy54RNFWqMXqoKjW0lILU6LG1Hv0TCbVGpTvA/edit?usp=drive_link) to view the presentation.
